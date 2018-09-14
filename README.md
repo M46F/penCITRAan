@@ -7,7 +7,6 @@
 Berisi data-data hasil analisis dan prediksi dalam format json. Data-data analisis mencakup:
 - Ground truth label
 - Hasil prediksi
-- Waktu inferensi (dengan berbagai konfigurasi komputasi berbeda).
 
 ### Lib
 
@@ -45,7 +44,7 @@ Berisi kumpulan notebook untuk melakukan training, evaluation, dsb.
 
 ### Train Val Config
 
-Berisi informasi training data beserta labelnya dan referensi pada image terkait.
+Berisi konfigurasi training data beserta labelnya dan referensi pada image terkait.
 
 ## Owner
 
