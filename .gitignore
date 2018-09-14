@@ -1,0 +1,6 @@
+model_data/
+data/
+.ipynb_checkpoints/
+__pycache__/
+logs/
+wt/
